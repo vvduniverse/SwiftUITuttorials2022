@@ -9,7 +9,19 @@ import SwiftUI
 
 struct ImagesBC: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Image("juliette")
+            .resizable()
+            .scaledToFill()
+//            .aspectRatio(contentMode: .fit)
+            .frame(width: 400, height: 600)
+//            .clipped()
+//            .cornerRadius(30)
+//            .padding(.horizontal, 40.0)
+            .clipShape(
+//                Circle()
+                Ellipse()
+            )
+        
     }
 }
 
