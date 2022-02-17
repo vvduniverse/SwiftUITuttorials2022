@@ -8,7 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		8419F9F427BD82DE001884A4 /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8419F9F327BD82DE001884A4 /* Frames.swift */; };
-		8439319327BD35C70075FFCF /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8439319227BD35C70075FFCF /* Image.swift */; };
+		8419F9F627BE022A001884A4 /* BackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8419F9F527BE022A001884A4 /* BackgroundAndOverlay.swift */; };
+		8439319327BD35C70075FFCF /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8439319227BD35C70075FFCF /* ImageBootcamp.swift */; };
 		8484DEEF27BD20F6009E318C /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8484DEEE27BD20F6009E318C /* Icons.swift */; };
 		848AD16B27BD0ECB00E4FC6D /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848AD16A27BD0ECB00E4FC6D /* Gradients.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
@@ -22,7 +23,8 @@
 
 /* Begin PBXFileReference section */
 		8419F9F327BD82DE001884A4 /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
-		8439319227BD35C70075FFCF /* Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
+		8419F9F527BE022A001884A4 /* BackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlay.swift; sourceTree = "<group>"; };
+		8439319227BD35C70075FFCF /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		8484DEEE27BD20F6009E318C /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 		848AD16A27BD0ECB00E4FC6D /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,8 +74,9 @@
 				849D589927BBD94C00EABA52 /* Colors.swift */,
 				848AD16A27BD0ECB00E4FC6D /* Gradients.swift */,
 				8484DEEE27BD20F6009E318C /* Icons.swift */,
-				8439319227BD35C70075FFCF /* Image.swift */,
+				8439319227BD35C70075FFCF /* ImageBootcamp.swift */,
 				8419F9F327BD82DE001884A4 /* Frames.swift */,
+				8419F9F527BE022A001884A4 /* BackgroundAndOverlay.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -159,9 +162,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8484DEEF27BD20F6009E318C /* Icons.swift in Sources */,
-				8439319327BD35C70075FFCF /* Image.swift in Sources */,
+				8439319327BD35C70075FFCF /* ImageBootcamp.swift in Sources */,
 				849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */,
 				849D589A27BBD94C00EABA52 /* Colors.swift in Sources */,
+				8419F9F627BE022A001884A4 /* BackgroundAndOverlay.swift in Sources */,
 				849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */,
 				8419F9F427BD82DE001884A4 /* Frames.swift in Sources */,
 				849D589627BBBE3D00EABA52 /* TextBootCamp.swift in Sources */,

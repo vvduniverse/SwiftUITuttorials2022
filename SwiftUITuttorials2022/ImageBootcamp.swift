@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Image: View {
+struct ImageBootcamp: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
@@ -15,6 +15,6 @@ struct Image: View {
 
 struct Image_Previews: PreviewProvider {
     static var previews: some View {
-        Image()
+        ImageBootcamp()
     }
 }
