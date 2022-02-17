@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Frames: View {
+struct FramesBC: View {
     var body: some View {
         VStack {
             Color(.brown)
@@ -47,6 +47,6 @@ struct Frames: View {
 
 struct Frames_Previews: PreviewProvider {
     static var previews: some View {
-        Frames()
+        FramesBC()
     }
 }

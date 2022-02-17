@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct BackgroundAndOverlay: View {
+struct BackgroundAndOverlayBC: View {
     let colors = [Color.green, Color.blue, Color.yellow]
     var body: some View {
         VStack(spacing: 150) {
@@ -95,6 +95,6 @@ struct BackgroundAndOverlay: View {
 
 struct BackgroundAndOverlay_Previews: PreviewProvider {
     static var previews: some View {
-        BackgroundAndOverlay()
+        BackgroundAndOverlayBC()
     }
 }

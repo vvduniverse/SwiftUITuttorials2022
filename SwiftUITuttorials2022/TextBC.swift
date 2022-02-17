@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct TextBootCamp: View {
+struct TextBC: View {
     var body: some View {
         VStack {
             Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/.uppercased())
@@ -38,6 +38,6 @@ struct TextBootCamp: View {
 
 struct TextBootCamp_Previews: PreviewProvider {
     static var previews: some View {
-        TextBootCamp()
+        TextBC()
     }
 }

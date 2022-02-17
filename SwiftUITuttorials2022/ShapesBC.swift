@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Shapes: View {
+struct ShapesBC: View {
     var body: some View {
         
         HStack(spacing: 20) {
@@ -49,6 +49,6 @@ struct Shapes: View {
 
 struct Shapes_Previews: PreviewProvider {
     static var previews: some View {
-        Shapes()
+        ShapesBC()
     }
 }

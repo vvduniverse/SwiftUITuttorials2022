@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Colors: View {
+struct ColorsBC: View {
     var body: some View {
         RoundedRectangle(cornerRadius: 25)
             .fill(
@@ -26,7 +26,7 @@ struct Colors: View {
 
 struct Colors_Previews: PreviewProvider {
     static var previews: some View {
-        Colors()
+        ColorsBC()
             .preferredColorScheme(.light)
     }
 }
