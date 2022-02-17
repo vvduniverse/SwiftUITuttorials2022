@@ -13,6 +13,7 @@
 		847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F427BE46B4006CB283 /* StacksBC.swift */; };
 		847D19F727BE577B006CB283 /* PaddingAndSpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */; };
 		847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F827BE5EC5006CB283 /* SpacerBC.swift */; };
+		847D19FB27BE9E21006CB283 /* InitializerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19FA27BE9E21006CB283 /* InitializerBC.swift */; };
 		8484DEEF27BD20F6009E318C /* IconsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8484DEEE27BD20F6009E318C /* IconsBC.swift */; };
 		848AD16B27BD0ECB00E4FC6D /* GradientsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848AD16A27BD0ECB00E4FC6D /* GradientsBC.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
@@ -31,6 +32,7 @@
 		847D19F427BE46B4006CB283 /* StacksBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBC.swift; sourceTree = "<group>"; };
 		847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBC.swift; sourceTree = "<group>"; };
 		847D19F827BE5EC5006CB283 /* SpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBC.swift; sourceTree = "<group>"; };
+		847D19FA27BE9E21006CB283 /* InitializerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBC.swift; sourceTree = "<group>"; };
 		8484DEEE27BD20F6009E318C /* IconsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBC.swift; sourceTree = "<group>"; };
 		848AD16A27BD0ECB00E4FC6D /* GradientsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBC.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +88,7 @@
 				847D19F427BE46B4006CB283 /* StacksBC.swift */,
 				847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */,
 				847D19F827BE5EC5006CB283 /* SpacerBC.swift */,
+				847D19FA27BE9E21006CB283 /* InitializerBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -179,6 +182,7 @@
 				849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */,
 				8419F9F427BD82DE001884A4 /* FramesBC.swift in Sources */,
 				847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */,
+				847D19FB27BE9E21006CB283 /* InitializerBC.swift in Sources */,
 				847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */,
 				849D589627BBBE3D00EABA52 /* TextBC.swift in Sources */,
 				849D589827BBC57600EABA52 /* ShapesBC.swift in Sources */,
