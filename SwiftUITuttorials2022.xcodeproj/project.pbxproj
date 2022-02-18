@@ -20,6 +20,7 @@
 		849027BD27BFACA700F83213 /* ScrollViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BC27BFACA700F83213 /* ScrollViewBC.swift */; };
 		849027BF27BFBE4D00F83213 /* LazyGridsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */; };
 		849027C127C0153A00F83213 /* SafeAreaBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027C027C0153A00F83213 /* SafeAreaBC.swift */; };
+		849027C327C02A8B00F83213 /* ButtonsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027C227C02A8B00F83213 /* ButtonsBC.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
 		849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588927BBBE2300EABA52 /* ContentView.swift */; };
 		849D588C27BBBE2400EABA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849D588B27BBBE2400EABA52 /* Assets.xcassets */; };
@@ -43,6 +44,7 @@
 		849027BC27BFACA700F83213 /* ScrollViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBC.swift; sourceTree = "<group>"; };
 		849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridsBC.swift; sourceTree = "<group>"; };
 		849027C027C0153A00F83213 /* SafeAreaBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBC.swift; sourceTree = "<group>"; };
+		849027C227C02A8B00F83213 /* ButtonsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBC.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITuttorials2022App.swift; sourceTree = "<group>"; };
 		849D588927BBBE2300EABA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				849027BC27BFACA700F83213 /* ScrollViewBC.swift */,
 				849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */,
 				849027C027C0153A00F83213 /* SafeAreaBC.swift */,
+				849027C227C02A8B00F83213 /* ButtonsBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -202,6 +205,7 @@
 				849027BD27BFACA700F83213 /* ScrollViewBC.swift in Sources */,
 				849D589627BBBE3D00EABA52 /* TextBC.swift in Sources */,
 				849D589827BBC57600EABA52 /* ShapesBC.swift in Sources */,
+				849027C327C02A8B00F83213 /* ButtonsBC.swift in Sources */,
 				848AD16B27BD0ECB00E4FC6D /* GradientsBC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
