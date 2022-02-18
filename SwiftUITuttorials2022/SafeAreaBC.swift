@@ -20,7 +20,7 @@ struct SafeAreaBC: View {
                     RoundedRectangle(cornerRadius: 25)
                         .fill(Color.white)
                         .frame(height: 150)
-                        .shadow(radius: 10)
+                        .shadow(color: .black.opacity(0.5), radius: 10, x: 10, y: 10)
                         .padding(15)
                 }
             }
