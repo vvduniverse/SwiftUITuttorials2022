@@ -16,6 +16,7 @@
 		847D19FB27BE9E21006CB283 /* InitializerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19FA27BE9E21006CB283 /* InitializerBC.swift */; };
 		8484DEEF27BD20F6009E318C /* IconsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8484DEEE27BD20F6009E318C /* IconsBC.swift */; };
 		848AD16B27BD0ECB00E4FC6D /* GradientsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848AD16A27BD0ECB00E4FC6D /* GradientsBC.swift */; };
+		849027BB27BFA6CF00F83213 /* ForEachBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BA27BFA6CF00F83213 /* ForEachBC.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
 		849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588927BBBE2300EABA52 /* ContentView.swift */; };
 		849D588C27BBBE2400EABA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849D588B27BBBE2400EABA52 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 		847D19FA27BE9E21006CB283 /* InitializerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBC.swift; sourceTree = "<group>"; };
 		8484DEEE27BD20F6009E318C /* IconsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBC.swift; sourceTree = "<group>"; };
 		848AD16A27BD0ECB00E4FC6D /* GradientsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBC.swift; sourceTree = "<group>"; };
+		849027BA27BFA6CF00F83213 /* ForEachBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBC.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITuttorials2022App.swift; sourceTree = "<group>"; };
 		849D588927BBBE2300EABA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */,
 				847D19F827BE5EC5006CB283 /* SpacerBC.swift */,
 				847D19FA27BE9E21006CB283 /* InitializerBC.swift */,
+				849027BA27BFA6CF00F83213 /* ForEachBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -179,6 +182,7 @@
 				849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */,
 				849D589A27BBD94C00EABA52 /* ColorsBC.swift in Sources */,
 				8419F9F627BE022A001884A4 /* BackgroundAndOverlayBC.swift in Sources */,
+				849027BB27BFA6CF00F83213 /* ForEachBC.swift in Sources */,
 				849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */,
 				8419F9F427BD82DE001884A4 /* FramesBC.swift in Sources */,
 				847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */,
