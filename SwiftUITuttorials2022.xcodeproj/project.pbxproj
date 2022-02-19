@@ -21,6 +21,7 @@
 		849027BF27BFBE4D00F83213 /* LazyGridsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */; };
 		849027C127C0153A00F83213 /* SafeAreaBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027C027C0153A00F83213 /* SafeAreaBC.swift */; };
 		849027C327C02A8B00F83213 /* ButtonsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027C227C02A8B00F83213 /* ButtonsBC.swift */; };
+		8493540527C10EB4008EF33B /* StateBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8493540427C10EB4008EF33B /* StateBC.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
 		849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588927BBBE2300EABA52 /* ContentView.swift */; };
 		849D588C27BBBE2400EABA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849D588B27BBBE2400EABA52 /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 		849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridsBC.swift; sourceTree = "<group>"; };
 		849027C027C0153A00F83213 /* SafeAreaBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBC.swift; sourceTree = "<group>"; };
 		849027C227C02A8B00F83213 /* ButtonsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBC.swift; sourceTree = "<group>"; };
+		8493540427C10EB4008EF33B /* StateBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBC.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITuttorials2022App.swift; sourceTree = "<group>"; };
 		849D588927BBBE2300EABA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */,
 				849027C027C0153A00F83213 /* SafeAreaBC.swift */,
 				849027C227C02A8B00F83213 /* ButtonsBC.swift */,
+				8493540427C10EB4008EF33B /* StateBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -190,6 +193,7 @@
 			files = (
 				847D19F727BE577B006CB283 /* PaddingAndSpacerBC.swift in Sources */,
 				8484DEEF27BD20F6009E318C /* IconsBC.swift in Sources */,
+				8493540527C10EB4008EF33B /* StateBC.swift in Sources */,
 				849027C127C0153A00F83213 /* SafeAreaBC.swift in Sources */,
 				8439319327BD35C70075FFCF /* ImagesBC.swift in Sources */,
 				849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */,
