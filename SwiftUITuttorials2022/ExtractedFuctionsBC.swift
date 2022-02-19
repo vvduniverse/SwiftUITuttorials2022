@@ -35,9 +35,7 @@ struct ExtractedFuctionsBC: View {
                     .background(Color.black)
                     .cornerRadius(10)
             }
-            
         }
-        
     }
     
     func buttonPressed() {
