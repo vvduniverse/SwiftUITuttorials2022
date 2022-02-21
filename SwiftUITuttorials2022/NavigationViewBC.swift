@@ -25,51 +25,59 @@ struct NavigationViewBC: View {
             .navigationTitle("Bunch of strings")
             //            .navigationBarHidden(true)
             .toolbar {
-                ToolbarItem(placement: .navigationBarLeading) {
+                
+                ToolbarItemGroup(placement: .navigationBarLeading) {
+                    
                     NavigationLink(destination: SecondScreen()) {
                         Image(systemName: "1.square")
                     }
-                }
-                
-                ToolbarItem(placement: .navigationBarLeading) {
                     NavigationLink(destination: ThirdScreen()) {
                         Image(systemName: "2.square")
                     }
                 }
                 
-                ToolbarItem(placement: .navigationBarTrailing) {
+                
+                ToolbarItemGroup(placement: .navigationBarTrailing) {
                     Image(systemName: "gear")
                         .foregroundColor(.orange)
-                }
-                
-                ToolbarItem(placement: .navigationBarTrailing) {
                     Image(systemName: "flame")
                         .foregroundColor(.green)
                 }
                 
+                //                ToolbarItem(placement: .navigationBarLeading) {
+                //                    NavigationLink(destination: SecondScreen()) {
+                //                        Image(systemName: "1.square")
+                //                    }
+                //                }
+                //
+                //                ToolbarItem(placement: .navigationBarLeading) {
+                //                    NavigationLink(destination: ThirdScreen()) {
+                //                        Image(systemName: "2.square")
+                //                    }
+                //                }
+                //
+                //                ToolbarItem(placement: .navigationBarTrailing) {
+                //                    Image(systemName: "gear")
+                //                        .foregroundColor(.orange)
+                //                }
+                //
+                //                ToolbarItem(placement: .navigationBarTrailing) {
+                //                    Image(systemName: "flame")
+                //                        .foregroundColor(.green)
+                //                }
+                //
+                //
                 
-                ToolbarItem(placement: .bottomBar) {
+                ToolbarItemGroup(placement: .bottomBar) {
                     NavigationLink(destination: SecondScreen()) {
                         Image(systemName: "1.square")
                     }
-                }
-                
-                ToolbarItem(placement: .bottomBar) {
                     NavigationLink(destination: ThirdScreen()) {
                         Image(systemName: "2.square")
                     }
-                }
-                
-                ToolbarItem(placement: .bottomBar) {
-                  Spacer()
-                }
-                
-                ToolbarItem(placement: .bottomBar) {
+                    Spacer()
                     Image(systemName: "gear")
                         .foregroundColor(.orange)
-                }
-                
-                ToolbarItem(placement: .bottomBar) {
                     Image(systemName: "flame")
                         .foregroundColor(.green)
                 }
