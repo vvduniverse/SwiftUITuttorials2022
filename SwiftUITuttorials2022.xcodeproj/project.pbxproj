@@ -23,6 +23,7 @@
 		848AD16B27BD0ECB00E4FC6D /* GradientsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848AD16A27BD0ECB00E4FC6D /* GradientsBC.swift */; };
 		8490111E27C4984E00B8575B /* ListBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8490111D27C4984E00B8575B /* ListBC.swift */; };
 		8490112027C4D74900B8575B /* AlertsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8490111F27C4D74900B8575B /* AlertsBC.swift */; };
+		8490112227C4EB2200B8575B /* ActionSheetBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8490112127C4EB2200B8575B /* ActionSheetBC.swift */; };
 		849027BB27BFA6CF00F83213 /* ForEachBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BA27BFA6CF00F83213 /* ForEachBC.swift */; };
 		849027BD27BFACA700F83213 /* ScrollViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BC27BFACA700F83213 /* ScrollViewBC.swift */; };
 		849027BF27BFBE4D00F83213 /* LazyGridsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */; };
@@ -61,6 +62,7 @@
 		848AD16A27BD0ECB00E4FC6D /* GradientsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBC.swift; sourceTree = "<group>"; };
 		8490111D27C4984E00B8575B /* ListBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBC.swift; sourceTree = "<group>"; };
 		8490111F27C4D74900B8575B /* AlertsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsBC.swift; sourceTree = "<group>"; };
+		8490112127C4EB2200B8575B /* ActionSheetBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBC.swift; sourceTree = "<group>"; };
 		849027BA27BFA6CF00F83213 /* ForEachBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBC.swift; sourceTree = "<group>"; };
 		849027BC27BFACA700F83213 /* ScrollViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBC.swift; sourceTree = "<group>"; };
 		849027BE27BFBE4D00F83213 /* LazyGridsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridsBC.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				84943C6C27C3C5CC00A3EEC8 /* NavigationViewBC.swift */,
 				8490111D27C4984E00B8575B /* ListBC.swift */,
 				8490111F27C4D74900B8575B /* AlertsBC.swift */,
+				8490112127C4EB2200B8575B /* ActionSheetBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -256,6 +259,7 @@
 				84943C6927C3A31600A3EEC8 /* SheetsBC.swift in Sources */,
 				8493540727C12173008EF33B /* ExtractedFuctionsBC.swift in Sources */,
 				847D19FB27BE9E21006CB283 /* InitializerBC.swift in Sources */,
+				8490112227C4EB2200B8575B /* ActionSheetBC.swift in Sources */,
 				847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */,
 				84943C6D27C3C5CC00A3EEC8 /* NavigationViewBC.swift in Sources */,
 				849027BD27BFACA700F83213 /* ScrollViewBC.swift in Sources */,
