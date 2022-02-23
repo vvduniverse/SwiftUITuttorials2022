@@ -8,8 +8,35 @@
 import SwiftUI
 
 struct TextEditorBC: View {
+    
+    @State private var textEditorText = ""
+    @State private var savedText = ""
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            VStack {
+                TextEditor(text: $textEditorText)
+                    .cornerRadius(10)
+                    .padding()
+                    .frame(height: 300)
+                    .colorMultiply(Color(UIColor.secondarySystemBackground))
+                Button {
+                    savedText = textEditorText
+                } label: {
+                    Text("Save".uppercased())
+                        .foregroundColor(.white)
+                        .padding()
+//                        .padding(.horizontal)
+                        .frame(width: 200)
+                        .background(Color.blue)
+                        .cornerRadius(12)
+                }
+                Text(savedText)
+Spacer()
+            }
+            .navigationTitle(Text("Text editor practice"))
+            .background(Color.indigo.opacity(0.3))
+        }
     }
 }
 
