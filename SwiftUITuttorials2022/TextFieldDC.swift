@@ -64,8 +64,8 @@ struct TextFieldDC_Previews: PreviewProvider {
     static var previews: some View {
         Group {
             TextFieldDC()
-.previewInterfaceOrientation(.portraitUpsideDown)
-            TextFieldDC()
+//.previewInterfaceOrientation(.portraitUpsideDown)
+//            TextFieldDC()
         }
     }
 }
