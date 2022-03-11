@@ -48,6 +48,7 @@
 		849D589627BBBE3D00EABA52 /* TextBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D589527BBBE3D00EABA52 /* TextBC.swift */; };
 		849D589827BBC57600EABA52 /* ShapesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D589727BBC57600EABA52 /* ShapesBC.swift */; };
 		849D589A27BBD94C00EABA52 /* ColorsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D589927BBD94C00EABA52 /* ColorsBC.swift */; };
+		84A5201827DB527300A72685 /* ColorPickerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5201727DB527200A72685 /* ColorPickerBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -93,6 +94,7 @@
 		849D589527BBBE3D00EABA52 /* TextBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBC.swift; sourceTree = "<group>"; };
 		849D589727BBC57600EABA52 /* ShapesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBC.swift; sourceTree = "<group>"; };
 		849D589927BBD94C00EABA52 /* ColorsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBC.swift; sourceTree = "<group>"; };
+		84A5201727DB527200A72685 /* ColorPickerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				848D2D4727C6349500D5F4B5 /* TextEditorBC.swift */,
 				848D2D4927C63E4300D5F4B5 /* ToggleBC.swift */,
 				848D2D4B27C64C3500D5F4B5 /* PickerBC.swift */,
+				84A5201727DB527200A72685 /* ColorPickerBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -256,6 +259,7 @@
 				849027C127C0153A00F83213 /* SafeAreaBC.swift in Sources */,
 				8490112027C4D74900B8575B /* AlertsBC.swift in Sources */,
 				84943C6727C399C200A3EEC8 /* TransitionBC.swift in Sources */,
+				84A5201827DB527300A72685 /* ColorPickerBC.swift in Sources */,
 				848D2D4C27C64C3500D5F4B5 /* PickerBC.swift in Sources */,
 				848A5AAC27C26EFD0030359C /* TernaryBC.swift in Sources */,
 				848D2D4827C6349500D5F4B5 /* TextEditorBC.swift in Sources */,
