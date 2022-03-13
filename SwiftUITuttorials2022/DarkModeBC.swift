@@ -31,6 +31,7 @@ struct DarkModeBC: View {
                         .foregroundColor(colorScheme == .light ? .green : .yellow)
                 }
             }
+            .navigationTitle("Color Scheme BC")
         }
     }
 }
