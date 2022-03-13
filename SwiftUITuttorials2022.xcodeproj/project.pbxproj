@@ -42,6 +42,7 @@
 		84943C6B27C3AF3B00A3EEC8 /* PopoverBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84943C6A27C3AF3B00A3EEC8 /* PopoverBC.swift */; };
 		84943C6D27C3C5CC00A3EEC8 /* NavigationViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84943C6C27C3C5CC00A3EEC8 /* NavigationViewBC.swift */; };
 		8496A76D27DE22FE00C4A1AE /* DarkModeBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */; };
+		8496A76F27DE2D4D00C4A1AE /* DocumentationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
 		849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588927BBBE2300EABA52 /* ContentView.swift */; };
 		849D588C27BBBE2400EABA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849D588B27BBBE2400EABA52 /* Assets.xcassets */; };
@@ -92,6 +93,7 @@
 		84943C6A27C3AF3B00A3EEC8 /* PopoverBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBC.swift; sourceTree = "<group>"; };
 		84943C6C27C3C5CC00A3EEC8 /* NavigationViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBC.swift; sourceTree = "<group>"; };
 		8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBC.swift; sourceTree = "<group>"; };
+		8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBC.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITuttorials2022App.swift; sourceTree = "<group>"; };
 		849D588927BBBE2300EABA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				84A0FF7327DD018700BB1FC0 /* SliderBC.swift */,
 				84A0FF7527DD0A2800BB1FC0 /* TabViewBC.swift */,
 				8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */,
+				8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -279,6 +282,7 @@
 				84A5201A27DB56C600A72685 /* DatePickerBC.swift in Sources */,
 				848D2D4C27C64C3500D5F4B5 /* PickerBC.swift in Sources */,
 				848A5AAC27C26EFD0030359C /* TernaryBC.swift in Sources */,
+				8496A76F27DE2D4D00C4A1AE /* DocumentationBC.swift in Sources */,
 				848D2D4827C6349500D5F4B5 /* TextEditorBC.swift in Sources */,
 				8439319327BD35C70075FFCF /* ImagesBC.swift in Sources */,
 				8490111E27C4984E00B8575B /* ListBC.swift in Sources */,
