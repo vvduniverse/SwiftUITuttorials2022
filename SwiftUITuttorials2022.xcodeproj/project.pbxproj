@@ -58,6 +58,7 @@
 		84A5201A27DB56C600A72685 /* DatePickerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5201927DB56C600A72685 /* DatePickerBC.swift */; };
 		84A5201C27DB5F3800A72685 /* StepperBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5201B27DB5F3800A72685 /* StepperBC.swift */; };
 		84AD434C27E1EB2B0026C1A0 /* TapGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */; };
+		84AD434E27E1EF580026C1A0 /* ModelBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AD434D27E1EF580026C1A0 /* ModelBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -113,6 +114,7 @@
 		84A5201927DB56C600A72685 /* DatePickerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBC.swift; sourceTree = "<group>"; };
 		84A5201B27DB5F3800A72685 /* StepperBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBC.swift; sourceTree = "<group>"; };
 		84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBC.swift; sourceTree = "<group>"; };
+		84AD434D27E1EF580026C1A0 /* ModelBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 				8412630327E0C4A0001230F1 /* OnApperarBC.swift */,
 				8412630527E0D40A001230F1 /* IfLetGuardBC.swift */,
 				84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */,
+				84AD434D27E1EF580026C1A0 /* ModelBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -284,6 +287,7 @@
 				8493540527C10EB4008EF33B /* StateBC.swift in Sources */,
 				84943C6527C393DC00A3EEC8 /* AnimationTimingBC.swift in Sources */,
 				849027C127C0153A00F83213 /* SafeAreaBC.swift in Sources */,
+				84AD434E27E1EF580026C1A0 /* ModelBC.swift in Sources */,
 				8496A76D27DE22FE00C4A1AE /* DarkModeBC.swift in Sources */,
 				8490112027C4D74900B8575B /* AlertsBC.swift in Sources */,
 				84943C6727C399C200A3EEC8 /* TransitionBC.swift in Sources */,
