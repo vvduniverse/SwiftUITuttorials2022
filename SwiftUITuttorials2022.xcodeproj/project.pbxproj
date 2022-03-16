@@ -57,6 +57,7 @@
 		84A5201827DB527300A72685 /* ColorPickerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5201727DB527200A72685 /* ColorPickerBC.swift */; };
 		84A5201A27DB56C600A72685 /* DatePickerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5201927DB56C600A72685 /* DatePickerBC.swift */; };
 		84A5201C27DB5F3800A72685 /* StepperBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5201B27DB5F3800A72685 /* StepperBC.swift */; };
+		84AD434C27E1EB2B0026C1A0 /* TapGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -111,6 +112,7 @@
 		84A5201727DB527200A72685 /* ColorPickerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBC.swift; sourceTree = "<group>"; };
 		84A5201927DB56C600A72685 /* DatePickerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBC.swift; sourceTree = "<group>"; };
 		84A5201B27DB5F3800A72685 /* StepperBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBC.swift; sourceTree = "<group>"; };
+		84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +193,7 @@
 				8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */,
 				8412630327E0C4A0001230F1 /* OnApperarBC.swift */,
 				8412630527E0D40A001230F1 /* IfLetGuardBC.swift */,
+				84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -316,6 +319,7 @@
 				84A0FF7427DD018700BB1FC0 /* SliderBC.swift in Sources */,
 				8490112227C4EB2200B8575B /* ActionSheetBC.swift in Sources */,
 				847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */,
+				84AD434C27E1EB2B0026C1A0 /* TapGestureBC.swift in Sources */,
 				8412630627E0D40A001230F1 /* IfLetGuardBC.swift in Sources */,
 				84943C6D27C3C5CC00A3EEC8 /* NavigationViewBC.swift in Sources */,
 				849027BD27BFACA700F83213 /* ScrollViewBC.swift in Sources */,
