@@ -12,6 +12,7 @@
 		8419F9F427BD82DE001884A4 /* FramesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8419F9F327BD82DE001884A4 /* FramesBC.swift */; };
 		8419F9F627BE022A001884A4 /* BackgroundAndOverlayBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8419F9F527BE022A001884A4 /* BackgroundAndOverlayBC.swift */; };
 		8439319327BD35C70075FFCF /* ImagesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8439319227BD35C70075FFCF /* ImagesBC.swift */; };
+		843AD33A27E395DA0037FC55 /* EnvironmentObjectBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843AD33927E395DA0037FC55 /* EnvironmentObjectBC.swift */; };
 		847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F427BE46B4006CB283 /* StacksBC.swift */; };
 		847D19F727BE577B006CB283 /* PaddingAndSpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */; };
 		847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F827BE5EC5006CB283 /* SpacerBC.swift */; };
@@ -68,6 +69,7 @@
 		8419F9F327BD82DE001884A4 /* FramesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesBC.swift; sourceTree = "<group>"; };
 		8419F9F527BE022A001884A4 /* BackgroundAndOverlayBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBC.swift; sourceTree = "<group>"; };
 		8439319227BD35C70075FFCF /* ImagesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBC.swift; sourceTree = "<group>"; };
+		843AD33927E395DA0037FC55 /* EnvironmentObjectBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBC.swift; sourceTree = "<group>"; };
 		847D19F427BE46B4006CB283 /* StacksBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBC.swift; sourceTree = "<group>"; };
 		847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBC.swift; sourceTree = "<group>"; };
 		847D19F827BE5EC5006CB283 /* SpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBC.swift; sourceTree = "<group>"; };
@@ -200,6 +202,7 @@
 				84AD434B27E1EB2B0026C1A0 /* TapGestureBC.swift */,
 				84AD434D27E1EF580026C1A0 /* ModelBC.swift */,
 				84AD434F27E2285D0026C1A0 /* ViewModelBC.swift */,
+				843AD33927E395DA0037FC55 /* EnvironmentObjectBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -293,6 +296,7 @@
 				84AD434E27E1EF580026C1A0 /* ModelBC.swift in Sources */,
 				8496A76D27DE22FE00C4A1AE /* DarkModeBC.swift in Sources */,
 				8490112027C4D74900B8575B /* AlertsBC.swift in Sources */,
+				843AD33A27E395DA0037FC55 /* EnvironmentObjectBC.swift in Sources */,
 				84943C6727C399C200A3EEC8 /* TransitionBC.swift in Sources */,
 				84A5201827DB527300A72685 /* ColorPickerBC.swift in Sources */,
 				84A5201A27DB56C600A72685 /* DatePickerBC.swift in Sources */,
