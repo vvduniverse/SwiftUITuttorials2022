@@ -18,6 +18,8 @@
 		847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F827BE5EC5006CB283 /* SpacerBC.swift */; };
 		847D19FB27BE9E21006CB283 /* InitializerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19FA27BE9E21006CB283 /* InitializerBC.swift */; };
 		8484DEEF27BD20F6009E318C /* IconsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8484DEEE27BD20F6009E318C /* IconsBC.swift */; };
+		8486A6E427E636470064B045 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8486A6E327E636470064B045 /* IntroView.swift */; };
+		8486A6E627E63C830064B045 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8486A6E527E63C830064B045 /* OnboardingView.swift */; };
 		848A5AA627C22B8C0030359C /* ExtractSubviewsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A5AA527C22B8C0030359C /* ExtractSubviewsBC.swift */; };
 		848A5AA827C24BBF0030359C /* BindingBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A5AA727C24BBF0030359C /* BindingBC.swift */; };
 		848A5AAA27C253660030359C /* ConditionalBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A5AA927C253660030359C /* ConditionalBC.swift */; };
@@ -46,6 +48,7 @@
 		84943C6D27C3C5CC00A3EEC8 /* NavigationViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84943C6C27C3C5CC00A3EEC8 /* NavigationViewBC.swift */; };
 		8496A76D27DE22FE00C4A1AE /* DarkModeBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */; };
 		8496A76F27DE2D4D00C4A1AE /* DocumentationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */; };
+		849D3D3227E75062000002E9 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D3D3127E75062000002E9 /* ProfileView.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
 		849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588927BBBE2300EABA52 /* ContentView.swift */; };
 		849D588C27BBBE2400EABA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849D588B27BBBE2400EABA52 /* Assets.xcassets */; };
@@ -76,6 +79,8 @@
 		847D19F827BE5EC5006CB283 /* SpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBC.swift; sourceTree = "<group>"; };
 		847D19FA27BE9E21006CB283 /* InitializerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBC.swift; sourceTree = "<group>"; };
 		8484DEEE27BD20F6009E318C /* IconsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBC.swift; sourceTree = "<group>"; };
+		8486A6E327E636470064B045 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		8486A6E527E63C830064B045 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		848A5AA527C22B8C0030359C /* ExtractSubviewsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBC.swift; sourceTree = "<group>"; };
 		848A5AA727C24BBF0030359C /* BindingBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBC.swift; sourceTree = "<group>"; };
 		848A5AA927C253660030359C /* ConditionalBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBC.swift; sourceTree = "<group>"; };
@@ -104,6 +109,7 @@
 		84943C6C27C3C5CC00A3EEC8 /* NavigationViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBC.swift; sourceTree = "<group>"; };
 		8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBC.swift; sourceTree = "<group>"; };
 		8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBC.swift; sourceTree = "<group>"; };
+		849D3D3127E75062000002E9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITuttorials2022App.swift; sourceTree = "<group>"; };
 		849D588927BBBE2300EABA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -134,6 +140,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8486A6E227E636270064B045 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				8486A6E327E636470064B045 /* IntroView.swift */,
+				8486A6E527E63C830064B045 /* OnboardingView.swift */,
+				849D3D3127E75062000002E9 /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
+			sourceTree = "<group>";
+		};
 		849D587B27BBBE2200EABA52 = {
 			isa = PBXGroup;
 			children = (
@@ -206,6 +222,7 @@
 				84AD434F27E2285D0026C1A0 /* ViewModelBC.swift */,
 				843AD33927E395DA0037FC55 /* EnvironmentObjectBC.swift */,
 				84A2B73027E4F7A800B254DC /* AppStorageBC.swift */,
+				8486A6E227E636270064B045 /* OnboardingViews */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -313,6 +330,7 @@
 				849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */,
 				84A0FF7627DD0A2800BB1FC0 /* TabViewBC.swift in Sources */,
 				848A5AAE27C2745D0030359C /* AnimationBC.swift in Sources */,
+				8486A6E427E636470064B045 /* IntroView.swift in Sources */,
 				849D589A27BBD94C00EABA52 /* ColorsBC.swift in Sources */,
 				8419F9F627BE022A001884A4 /* BackgroundAndOverlayBC.swift in Sources */,
 				848A5AA627C22B8C0030359C /* ExtractSubviewsBC.swift in Sources */,
@@ -329,9 +347,11 @@
 				84943C6927C3A31600A3EEC8 /* SheetsBC.swift in Sources */,
 				8493540727C12173008EF33B /* ExtractedFuctionsBC.swift in Sources */,
 				84A2B73127E4F7A800B254DC /* AppStorageBC.swift in Sources */,
+				849D3D3227E75062000002E9 /* ProfileView.swift in Sources */,
 				84A5201C27DB5F3800A72685 /* StepperBC.swift in Sources */,
 				847D19FB27BE9E21006CB283 /* InitializerBC.swift in Sources */,
 				84A0FF7427DD018700BB1FC0 /* SliderBC.swift in Sources */,
+				8486A6E627E63C830064B045 /* OnboardingView.swift in Sources */,
 				8490112227C4EB2200B8575B /* ActionSheetBC.swift in Sources */,
 				847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */,
 				84AD434C27E1EB2B0026C1A0 /* TapGestureBC.swift in Sources */,
