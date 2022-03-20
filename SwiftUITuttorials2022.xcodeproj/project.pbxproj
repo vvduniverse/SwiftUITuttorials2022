@@ -17,6 +17,7 @@
 		84572D9527E7890100857E64 /* TextSelectionBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9427E7890100857E64 /* TextSelectionBC.swift */; };
 		84572D9727E789CE00857E64 /* ButtonStylesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9627E789CE00857E64 /* ButtonStylesBC.swift */; };
 		84572D9927E790F200857E64 /* ListSwipeActionsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */; };
+		84572D9B27E7947800857E64 /* BadgesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9A27E7947800857E64 /* BadgesBC.swift */; };
 		847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F427BE46B4006CB283 /* StacksBC.swift */; };
 		847D19F727BE577B006CB283 /* PaddingAndSpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */; };
 		847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F827BE5EC5006CB283 /* SpacerBC.swift */; };
@@ -83,6 +84,7 @@
 		84572D9427E7890100857E64 /* TextSelectionBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBC.swift; sourceTree = "<group>"; };
 		84572D9627E789CE00857E64 /* ButtonStylesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBC.swift; sourceTree = "<group>"; };
 		84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBC.swift; sourceTree = "<group>"; };
+		84572D9A27E7947800857E64 /* BadgesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBC.swift; sourceTree = "<group>"; };
 		847D19F427BE46B4006CB283 /* StacksBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBC.swift; sourceTree = "<group>"; };
 		847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBC.swift; sourceTree = "<group>"; };
 		847D19F827BE5EC5006CB283 /* SpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBC.swift; sourceTree = "<group>"; };
@@ -238,6 +240,7 @@
 				84572D9427E7890100857E64 /* TextSelectionBC.swift */,
 				84572D9627E789CE00857E64 /* ButtonStylesBC.swift */,
 				84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */,
+				84572D9A27E7947800857E64 /* BadgesBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -382,6 +385,7 @@
 				849D589627BBBE3D00EABA52 /* TextBC.swift in Sources */,
 				849D589827BBC57600EABA52 /* ShapesBC.swift in Sources */,
 				849027C327C02A8B00F83213 /* ButtonsBC.swift in Sources */,
+				84572D9B27E7947800857E64 /* BadgesBC.swift in Sources */,
 				848AD16B27BD0ECB00E4FC6D /* GradientsBC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
