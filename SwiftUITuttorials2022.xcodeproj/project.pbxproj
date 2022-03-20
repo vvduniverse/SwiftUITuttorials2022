@@ -16,6 +16,7 @@
 		84572D9327E785D500857E64 /* BackgroundMaterialsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9227E785D500857E64 /* BackgroundMaterialsBC.swift */; };
 		84572D9527E7890100857E64 /* TextSelectionBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9427E7890100857E64 /* TextSelectionBC.swift */; };
 		84572D9727E789CE00857E64 /* ButtonStylesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9627E789CE00857E64 /* ButtonStylesBC.swift */; };
+		84572D9927E790F200857E64 /* ListSwipeActionsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */; };
 		847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F427BE46B4006CB283 /* StacksBC.swift */; };
 		847D19F727BE577B006CB283 /* PaddingAndSpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */; };
 		847D19F927BE5EC5006CB283 /* SpacerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D19F827BE5EC5006CB283 /* SpacerBC.swift */; };
@@ -81,6 +82,7 @@
 		84572D9227E785D500857E64 /* BackgroundMaterialsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsBC.swift; sourceTree = "<group>"; };
 		84572D9427E7890100857E64 /* TextSelectionBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBC.swift; sourceTree = "<group>"; };
 		84572D9627E789CE00857E64 /* ButtonStylesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBC.swift; sourceTree = "<group>"; };
+		84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBC.swift; sourceTree = "<group>"; };
 		847D19F427BE46B4006CB283 /* StacksBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBC.swift; sourceTree = "<group>"; };
 		847D19F627BE577B006CB283 /* PaddingAndSpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBC.swift; sourceTree = "<group>"; };
 		847D19F827BE5EC5006CB283 /* SpacerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBC.swift; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 				84572D9227E785D500857E64 /* BackgroundMaterialsBC.swift */,
 				84572D9427E7890100857E64 /* TextSelectionBC.swift */,
 				84572D9627E789CE00857E64 /* ButtonStylesBC.swift */,
+				84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -322,6 +325,7 @@
 				847D19F727BE577B006CB283 /* PaddingAndSpacerBC.swift in Sources */,
 				8490112427C4FCCA00B8575B /* ContextMenuBC.swift in Sources */,
 				8484DEEF27BD20F6009E318C /* IconsBC.swift in Sources */,
+				84572D9927E790F200857E64 /* ListSwipeActionsBC.swift in Sources */,
 				8493540527C10EB4008EF33B /* StateBC.swift in Sources */,
 				84943C6527C393DC00A3EEC8 /* AnimationTimingBC.swift in Sources */,
 				849027C127C0153A00F83213 /* SafeAreaBC.swift in Sources */,
