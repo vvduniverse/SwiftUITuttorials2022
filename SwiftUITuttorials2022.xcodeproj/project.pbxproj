@@ -49,6 +49,7 @@
 		8496A76D27DE22FE00C4A1AE /* DarkModeBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */; };
 		8496A76F27DE2D4D00C4A1AE /* DocumentationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */; };
 		849D3D3227E75062000002E9 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D3D3127E75062000002E9 /* ProfileView.swift */; };
+		849D3D3427E78036000002E9 /* AsyncImageBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D3D3327E78036000002E9 /* AsyncImageBC.swift */; };
 		849D588827BBBE2300EABA52 /* SwiftUITuttorials2022App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */; };
 		849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D588927BBBE2300EABA52 /* ContentView.swift */; };
 		849D588C27BBBE2400EABA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849D588B27BBBE2400EABA52 /* Assets.xcassets */; };
@@ -110,6 +111,7 @@
 		8496A76C27DE22FE00C4A1AE /* DarkModeBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBC.swift; sourceTree = "<group>"; };
 		8496A76E27DE2D4D00C4A1AE /* DocumentationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBC.swift; sourceTree = "<group>"; };
 		849D3D3127E75062000002E9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		849D3D3327E78036000002E9 /* AsyncImageBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBC.swift; sourceTree = "<group>"; };
 		849D588427BBBE2300EABA52 /* SwiftUITuttorials2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITuttorials2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849D588727BBBE2300EABA52 /* SwiftUITuttorials2022App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITuttorials2022App.swift; sourceTree = "<group>"; };
 		849D588927BBBE2300EABA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -223,6 +225,7 @@
 				843AD33927E395DA0037FC55 /* EnvironmentObjectBC.swift */,
 				84A2B73027E4F7A800B254DC /* AppStorageBC.swift */,
 				8486A6E227E636270064B045 /* OnboardingViews */,
+				849D3D3327E78036000002E9 /* AsyncImageBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -330,6 +333,7 @@
 				849D588A27BBBE2300EABA52 /* ContentView.swift in Sources */,
 				84A0FF7627DD0A2800BB1FC0 /* TabViewBC.swift in Sources */,
 				848A5AAE27C2745D0030359C /* AnimationBC.swift in Sources */,
+				849D3D3427E78036000002E9 /* AsyncImageBC.swift in Sources */,
 				8486A6E427E636470064B045 /* IntroView.swift in Sources */,
 				849D589A27BBD94C00EABA52 /* ColorsBC.swift in Sources */,
 				8419F9F627BE022A001884A4 /* BackgroundAndOverlayBC.swift in Sources */,
