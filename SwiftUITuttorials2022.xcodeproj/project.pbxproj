@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8405B93E27E88FB400BE7C6E /* SubmitTextFieldBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8405B93D27E88FB400BE7C6E /* SubmitTextFieldBC.swift */; };
 		8412630427E0C4A0001230F1 /* OnApperarBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8412630327E0C4A0001230F1 /* OnApperarBC.swift */; };
 		8412630627E0D40A001230F1 /* IfLetGuardBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8412630527E0D40A001230F1 /* IfLetGuardBC.swift */; };
 		8419F9F427BD82DE001884A4 /* FramesBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8419F9F327BD82DE001884A4 /* FramesBC.swift */; };
@@ -75,6 +76,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8405B93D27E88FB400BE7C6E /* SubmitTextFieldBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBC.swift; sourceTree = "<group>"; };
 		8412630327E0C4A0001230F1 /* OnApperarBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnApperarBC.swift; sourceTree = "<group>"; };
 		8412630527E0D40A001230F1 /* IfLetGuardBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBC.swift; sourceTree = "<group>"; };
 		8419F9F327BD82DE001884A4 /* FramesBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesBC.swift; sourceTree = "<group>"; };
@@ -244,6 +246,7 @@
 				84572D9827E790F200857E64 /* ListSwipeActionsBC.swift */,
 				84572D9A27E7947800857E64 /* BadgesBC.swift */,
 				849005B527E87F83006B1617 /* FocusStateBC.swift */,
+				8405B93D27E88FB400BE7C6E /* SubmitTextFieldBC.swift */,
 				849D588B27BBBE2400EABA52 /* Assets.xcassets */,
 				849D588D27BBBE2400EABA52 /* Preview Content */,
 			);
@@ -380,6 +383,7 @@
 				84A0FF7427DD018700BB1FC0 /* SliderBC.swift in Sources */,
 				8486A6E627E63C830064B045 /* OnboardingView.swift in Sources */,
 				8490112227C4EB2200B8575B /* ActionSheetBC.swift in Sources */,
+				8405B93E27E88FB400BE7C6E /* SubmitTextFieldBC.swift in Sources */,
 				847D19F527BE46B4006CB283 /* StacksBC.swift in Sources */,
 				84AD434C27E1EB2B0026C1A0 /* TapGestureBC.swift in Sources */,
 				84AD435027E2285D0026C1A0 /* ViewModelBC.swift in Sources */,
